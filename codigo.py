@@ -1,0 +1,12 @@
+#1
+
+paciente_endereco_colibgeMunicipio
+paciente_endereco_coPais
+paciente_endereco_nmPais
+paciente_endereco_nmMunicipio
+paciente_endereco_uf
+estabelecimento_municipio_codigo
+estabelecimento_municipio_nome
+estabelecimento_uf
+
+#Sigilode dados dos entrevistados.
